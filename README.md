@@ -11,4 +11,4 @@ The project is at deployment stage
 
 ### Copyright
 
-2014 Git.Training
+2014 Git.Training. All Rights Reserved
