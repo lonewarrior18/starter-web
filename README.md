@@ -8,3 +8,7 @@ This is a purpose
 
 ## Deployment
 The project is at deployment stage
+
+### Copyright
+
+2014 Git.Training
